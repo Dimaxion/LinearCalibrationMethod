@@ -1,0 +1,14 @@
+[project]
+name = "linearcalibrationmethod"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "h5py>=3.16.0",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+    "pip>=26.1.2",
+    "scipy>=1.18.0",
+]
